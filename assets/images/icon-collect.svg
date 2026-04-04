@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <!-- Headphones shape -->
+  <path d="M16 42 C16 28 26 18 40 18 C54 18 64 28 64 42" fill="none" stroke="#1a1a2e" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left ear -->
+  <rect x="12" y="40" width="10" height="18" rx="4" fill="#e94560"/>
+  <!-- Right ear -->
+  <rect x="58" y="40" width="10" height="18" rx="4" fill="#e94560"/>
+  <!-- Collection dots / progress -->
+  <circle cx="32" cy="64" r="3" fill="#e94560"/>
+  <circle cx="40" cy="64" r="3" fill="#e94560"/>
+  <circle cx="48" cy="64" r="3" fill="#1a1a2e" opacity="0.3"/>
+</svg>

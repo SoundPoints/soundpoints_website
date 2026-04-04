@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <!-- Map pin body -->
+  <path d="M60 10 C38 10 20 28 20 50 C20 78 60 110 60 110 C60 110 100 78 100 50 C100 28 82 10 60 10Z" fill="#1a1a2e" stroke="none"/>
+  <!-- Inner circle -->
+  <circle cx="60" cy="48" r="22" fill="#16213e"/>
+  <!-- Sound waves radiating from center -->
+  <path d="M60 36 C60 36 60 36 60 36" stroke="#e94560" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Wave 1 (inner) -->
+  <path d="M52 40 Q48 48 52 56" stroke="#e94560" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M68 40 Q72 48 68 56" stroke="#e94560" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- Wave 2 (outer) -->
+  <path d="M46 34 Q39 48 46 62" stroke="#e94560" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.7"/>
+  <path d="M74 34 Q81 48 74 62" stroke="#e94560" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.7"/>
+  <!-- Center dot -->
+  <circle cx="60" cy="48" r="4" fill="#e94560"/>
+</svg>

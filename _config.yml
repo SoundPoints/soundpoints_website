@@ -1,0 +1,12 @@
+title: SoundPoints
+description: Discover the world through sound. Location-based audio experiences that turn cities into interactive stories.
+url: https://soundpoints.com
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
