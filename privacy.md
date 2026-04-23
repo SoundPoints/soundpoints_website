@@ -5,7 +5,7 @@ description: "How SoundPoints collects, uses, and protects your information."
 permalink: /privacy/
 ---
 
-<article class="legal">
+<article class="legal" markdown="1">
 
 # Privacy Policy
 
@@ -77,6 +77,6 @@ We may update this policy from time to time. When we do, we will update the "Eff
 
 ## Contact
 
-Questions or privacy requests: [matt@ministryofproduct.com](mailto:matt@ministryofproduct.com).
+Questions or privacy requests: [hello@ministryofproduct.com](mailto:hello@ministryofproduct.com).
 
 </article>

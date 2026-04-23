@@ -5,7 +5,7 @@ description: "The rules for using SoundPoints."
 permalink: /terms/
 ---
 
-<article class="legal">
+<article class="legal" markdown="1">
 
 # Terms of Service
 
@@ -19,7 +19,7 @@ You must be at least 13 years old (or the minimum age required in your jurisdict
 
 ## 2. Your account
 
-You are responsible for the activity that happens under your account and for keeping your credentials confidential. Notify us promptly at [matt@ministryofproduct.com](mailto:matt@ministryofproduct.com) if you believe your account has been compromised. We may suspend or terminate accounts that violate these Terms, as described in Section 9.
+You are responsible for the activity that happens under your account and for keeping your credentials confidential. Notify us promptly at [hello@ministryofproduct.com](mailto:hello@ministryofproduct.com) if you believe your account has been compromised. We may suspend or terminate accounts that violate these Terms, as described in Section 9.
 
 ## 3. Using the Service
 
@@ -90,6 +90,6 @@ We may update these Terms from time to time. When we do, we will update the "Eff
 
 ## 15. Contact
 
-Questions about these Terms: [matt@ministryofproduct.com](mailto:matt@ministryofproduct.com).
+Questions about these Terms: [hello@ministryofproduct.com](mailto:hello@ministryofproduct.com).
 
 </article>
